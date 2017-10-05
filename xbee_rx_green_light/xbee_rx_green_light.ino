@@ -16,7 +16,7 @@
 
 // Number of LEDs
 #define NUM_LEDS    20
-#define WAIT        2000    // ms
+#define WAIT        5000    // ms
 #define BRIGHTNESS  100     // %
 
 // Define our clock and data lines
